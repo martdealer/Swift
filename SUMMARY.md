@@ -1,6 +1,6 @@
 # Table of contents
 
-* [0. Intro](README.md)
+* [Intro](README.md)
 
 ## Basic Syntax
 
