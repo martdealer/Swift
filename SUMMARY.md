@@ -1,4 +1,3 @@
 # Table of contents
 
-* [Page](README.md)
-* [Page 1](page-1.md)
+* [0. Intro](README.md)
