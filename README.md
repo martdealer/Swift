@@ -1,3 +1,3 @@
 # 0. Intro
 
-web : [https://martdealer.gitbook.io/martdealer-swift/](https://martdealer.gitbook.io/martdealer-swift/)
+web : [https://martdealer.gitbook.io/swift/](https://martdealer.gitbook.io/swift/)
