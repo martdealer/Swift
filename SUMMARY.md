@@ -4,4 +4,4 @@
 
 ## closure 클로저
 
-* [기본개념과 형태](closure/undefined.md)
+* [1. 기본개념과 형태](closure/1..md)
