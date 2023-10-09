@@ -1,6 +1,6 @@
 # Intro
 
-web link : [https://martdealer.gitbook.io/swift/](https://martdealer.gitbook.io/swift/)
+웹에서 보기 : [https://martdealer.gitbook.io/swift/](https://martdealer.gitbook.io/swift/)
 
 
 
